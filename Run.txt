@@ -1,0 +1,2 @@
+"C:\Program Files\Python39\python.exe" "C:\Users\VebZ\PycharmProjects\graph\Run.py"
+@pause
